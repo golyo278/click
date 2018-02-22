@@ -1,4 +1,4 @@
-$(".fate").click(function() {
-  $(".fate").hide();
+$(".one").click(function() {
+  $(".one").hide();
   
 });
