@@ -1,0 +1,368 @@
+body{ 
+    background-color: black;
+    color: white;
+    font-family: arial, helvetica, sans-serif;
+
+    
+}
+
+
+.ftin{
+    width:700px;
+    position: fixed;
+   left:400px;
+    z-index:10;
+    display:none;
+  
+ 
+}
+
+.ftout{
+    width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+ 
+}
+
+.block2 {
+width:0;
+height: 0;
+border-top: 170px solid transparent;
+border-right: 170px solid transparent;
+position: fixed;
+left: 400px;
+z-index:15;
+top:180px;
+cursor: help;
+}
+
+.block3 {
+position: fixed;
+width: 0;
+height: 0;
+border-top: 170px solid transparent;
+border-left: 170px solid transparent;
+z-index: 15;
+top: 180px;
+left:925px;
+cursor: help;
+
+}
+
+.block4{
+position: fixed;
+width: 0;
+height: 0;
+border-bottom: 170px solid transparent;
+border-right: 170px solid transparent;
+left:400px;
+top:360px;
+z-index:15;
+cursor: help;
+}
+
+.block5 {
+    position: fixed;
+width: 0;
+height: 0;
+border-bottom: 170px solid transparent;
+border-left: 170px solid transparent;
+top: 360px;
+left:925px;
+z-index: 15;
+cursor: help;
+}
+
+.block6{
+    width:0;
+height: 0;
+border-top: 140px solid transparent;
+border-right: 140px solid transparent;
+position: fixed;
+left: 585px;
+z-index:15;
+top:15px;
+cursor: help;
+    
+}
+
+.block7 {
+position: fixed;
+width: 0;
+height: 0;
+border-top: 140px solid transparent;
+border-left: 140px solid transparent;
+z-index: 15;
+top:15px;
+left: 775px;
+cursor: help;
+
+}
+
+.block8{
+position: fixed;
+width: 0;
+height: 0;
+border-bottom: 140px solid transparent;
+border-right: 140px solid transparent;
+left:585px;
+bottom:35px;
+z-index:15;
+cursor: help;
+}
+
+.block9 {
+position: fixed;
+width: 0;
+height: 0;
+border-bottom: 140px solid transparent;
+border-left: 140px solid transparent;
+bottom: 35px;
+left:775px;
+z-index: 15;
+cursor: help;
+
+}
+
+.tile1{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+}
+.tile2{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+}
+.tile3{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+}
+
+.tile4{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+}
+.tile5{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+}
+
+.tile6{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+}
+.tile7{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+}
+
+.tile8{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+}
+
+.life1{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:15;
+    display:none;
+    
+    
+}
+
+.life2{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+    
+}
+
+.life3{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+    
+}
+
+.life4{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+    
+}
+.life5{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+    
+}
+.life6{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+    
+}
+.life7{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+    
+}
+.life8{
+     width:700px;
+    position: fixed;
+    left: 400px;
+    z-index:10;
+    display:none;
+    
+    
+}
+
+.flip1{
+    width: 90px;
+    height: 90px;
+    background-color: transparent;
+    left: 640px;
+    top:150px;
+    position:fixed;
+    z-index:20;
+    cursor:pointer
+
+}
+
+.flip2{
+    width: 90px;
+    height: 90px;
+    background-color: transparent;
+    position:fixed;
+    z-index:20;
+    cursor: pointer;
+    left: 765px;
+    top: 150px;
+    
+}
+
+.flip3{
+    width: 90px;
+    height: 90px;
+    background-color: transparent;
+    position:fixed;
+    z-index:20;
+    cursor: pointer;
+    left: 880px;
+    top: 380px;
+}
+
+.flip4{
+    width: 90px;
+    height: 90px;
+    background-color: transparent;
+    position:fixed;
+    z-index:20;
+    cursor: pointer;
+    left: 640px;
+    top: 480px;
+}
+
+.flip5{
+    width: 90px;
+    height: 90px;
+    background-color: transparent;
+    position:fixed;
+    z-index:20;
+    cursor: pointer;
+    left: 525px;
+    top: 245px;
+}
+
+.flip6{
+    width: 90px;
+    height: 90px;
+    background-color: transparent;
+    position:fixed;
+    z-index:20;
+    cursor: pointer;
+    left: 880px;
+    top: 240px;
+}
+
+.flip7{
+    width: 90px;
+    height: 90px;
+    background-color: transparent;
+    position:fixed;
+    z-index:20;
+    cursor: pointer;
+    left: 760px;
+    top: 480px;
+}
+
+.flip8{
+    width: 90px;
+    height: 90px;
+    background-color: transparent;
+    position:fixed;
+    z-index:20;
+    cursor: pointer;
+    left: 530px;
+    top: 380px;
+}
+
+
+
+.fate{
+ left:590px;
+ top: 350px;
+ position: fixed;
+}
