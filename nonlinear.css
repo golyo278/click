@@ -7,10 +7,9 @@ body{
 
 
 .one{
-    width: 20%;
-    height: 45%;
+    width: 20px;
+    height: 45px;
     background-color: orange;
-    position: fixed, center;
     border: black;
 
 }
