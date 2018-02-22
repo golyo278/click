@@ -9,7 +9,7 @@ body{
 .one{
     width: 20%;
     height: 45%;
-    color: orange;
+    background-color: orange;
     position: fixed, center;
     border: black;
 
