@@ -1,8 +1,5 @@
-$(".block2").click(function() {
-  $(".ftout").hide();
-  $(".blocks").hide();
-  $(".tile1").show();
-  $(".tile3").show();
+$(".fate").click(function() {
+  $(".fate").animate({left: '250px'});
   
 });
 
