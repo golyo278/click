@@ -25,4 +25,5 @@ body{
 .code1{
     float:right;
     width: 50%;
+    overflow: hidden;
 }
