@@ -2,28 +2,9 @@ body{
     background-color: white;
     color: orange;
     font-family: arial, helvetica, sans-serif;
-
-    
 }
 
 
-.ftin{
-    width:700px;
-    position: fixed;
-   left:400px;
-    z-index:10;
-    display:none;
-  
- 
-}
-
-.ftout{
-    width:700px;
-    position: fixed;
-    left: 400px;
-    z-index:10;
- 
-}
 
 .block2 {
 width:0;
