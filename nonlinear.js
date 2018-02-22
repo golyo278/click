@@ -7,5 +7,3 @@ $(".flip1").click(function() {
  $(".tiles").hide();
   $(".life1").show();
 });
-
-} 
