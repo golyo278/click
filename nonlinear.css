@@ -19,5 +19,9 @@ body{
     width:50%;
     height: 100%
     background-color: orange;
-    
+
+}
+
+.code1{
+    float:right;
 }
