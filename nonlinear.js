@@ -1,4 +1,7 @@
-$(".one").click(function() {
-  $(".hide").hide();
-  
+$(".hide").click(function() {
+  $(".hide").hide(); 
+});
+
+$(".alert").click(function() {
+  $(".alert").alert("BOO!"); 
 });
