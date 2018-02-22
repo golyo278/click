@@ -2,14 +2,24 @@ body{
     background-color: white;
     color: orange;
     font-family: arial, helvetica, sans-serif;
+    font-size: 75pt;
 }
 
 
 
 .one{
-    width: 20px;
-    height: 45px;
+    width: 200px;
+    height: 450px;
     background-color: orange;
-    border: black;
+    border: black 2px;
+    margin: auto;
+
+}
+
+.two{
+    width: 200px;
+    height: 450px;
+    background-color: blue;
+    margin: auto;
 
 }
