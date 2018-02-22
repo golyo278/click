@@ -1,5 +1,5 @@
 $(".fate").click(function() {
-  $(".fate").animate({left: '250px'});
+  $(".fate").hide();
   
 });
 
