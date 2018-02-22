@@ -26,8 +26,9 @@ body{
 
 .hide{
     float:left;
-    width:50%;
-    height: 100%;
+    width:40%;
+    height: 80%;
+    margin: 0 auto;
     background-color: orange;
 
 }
