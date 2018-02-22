@@ -6,7 +6,11 @@ body{
 
 
 
-.fate{
- position: fixed;
+.one{
+    width: 20%;
+    height: 45%;
+    color: orange;
+    position: fixed, center;
+    border: black;
 
 }
