@@ -7,6 +7,6 @@ $(".alert").click(function() {
 });
 
 $(".color").click(function() {
-    $( this ).css( "color", "red" );
+    $( this ).css( "background-color", "red" );
 });
 
