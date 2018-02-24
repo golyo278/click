@@ -3,7 +3,7 @@ $(".hide").click(function() {
 });
 
 $(".alert").click(function() {
-  $(".alert")window.alert("BOO!"); 
+    alert("BOO!"); 
 });
 
 $(".color").click(function() {
