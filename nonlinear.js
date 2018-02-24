@@ -5,3 +5,8 @@ $(".hide").click(function() {
 $(".alert").click(function() {
   $(".alert").alert("BOO!"); 
 });
+
+$(".color").click(function() {
+  $(".color").color("yellow"); 
+});
+

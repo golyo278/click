@@ -52,4 +52,50 @@ body{
     overflow: hidden;
 }
 
+.three{
+    width:80%;
+    height: 40%;
+    display: block;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
 
+}
+.color{
+    float:left;
+    width:50%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: orange;
+
+}
+
+.code3{
+    float:right;
+    width: 50%;
+    overflow: hidden;
+}
+
+.four{
+    width:80%;
+    height: 40%;
+    display: block;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+
+}
+.idk{
+    float:left;
+    width:50%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: orange;
+
+}
+
+.code4{
+    float:right;
+    width: 50%;
+    overflow: hidden;
+}
