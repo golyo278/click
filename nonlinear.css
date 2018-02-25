@@ -22,10 +22,7 @@ body{
     height: 100%;
     margin: 0 auto;
     background-color: #c4e2d9;
-     overflow: hidden;
-    border-style: solid;
-    border-width: 2px;
-    border-color: white;
+    overflow: hidden;
 
 }
 
@@ -129,12 +126,90 @@ body{
     width:50%;
     height: 100%;
     margin: 0 auto;
-    background-color: orange;
+    background-color: #336600;
      overflow: hidden;
 
 }
 
 .code5{
+    float:right;
+    width: 50%;
+    overflow: hidden;
+}
+
+.six{
+    width:80%;
+    height: 40%;
+    display: block;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+     overflow: hidden;
+
+}
+.animate{
+    float:left;
+    width:50%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #336600;
+     overflow: hidden;
+
+}
+
+.code6{
+    float:right;
+    width: 50%;
+    overflow: hidden;
+}
+
+.seven{
+    width:80%;
+    height: 40%;
+    display: block;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+     overflow: hidden;
+
+}
+.fade{
+    float:left;
+    width:50%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #336600;
+     overflow: hidden;
+
+}
+
+.code7{
+    float:right;
+    width: 50%;
+    overflow: hidden;
+}
+
+.eight{
+    width:80%;
+    height: 40%;
+    display: block;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+     overflow: hidden;
+
+}
+.slide{
+    float:left;
+    width:50%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #336600;
+     overflow: hidden;
+
+}
+
+.code8{
     float:right;
     width: 50%;
     overflow: hidden;

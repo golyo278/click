@@ -15,3 +15,16 @@ $(".sound").click(function() {
   audio.play();
   
 });
+
+
+$(".animate").click(function(){
+    $(".animate").animate({right: '250px'});
+}); 
+
+$(".fade").click(function(){
+    $(".fade").fadeIn("slow");
+});
+
+$(".slide").click(function(){
+    slideDown();
+});
