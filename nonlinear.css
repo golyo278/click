@@ -75,17 +75,23 @@ body{
 
 */
 .hide{
-    float:left;
-    width:50%;
-    height: 100%;
     margin: 0 auto;
     background-color: #c4e2d9;
     overflow: hidden;
 }
+.hid{
+    width:50%;
+    height: 40%;
+    display: block;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+}
 .alert{
     float:left;
     width:50%;
-    height: 60%;
+    height: 40%;
     margin: 0 auto;
     background-color: #edbbbb;
     overflow: hidden;
