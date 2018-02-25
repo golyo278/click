@@ -13,8 +13,7 @@ $(".color").click(function() {
 
 var audio = new Audio('Bandrew.m4a');
 $(".sound").click(function() {
-  audio.play();
-  
+  audio.play(); 
 });
 
 $(".idk").click(function(){
@@ -34,3 +33,4 @@ $(".fade").click(function(){
 });
 
 
+}
