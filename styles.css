@@ -176,10 +176,11 @@ body{
 }
 .h1{
     text-align: center;
+    margin-top: 25px;
 
 }
 .h2{
-    text-align: top;
+    margin-top: 0;
 
 }
 
