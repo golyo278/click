@@ -17,7 +17,7 @@ $(".sound").click(function() {
 });
 
 $(".idk").click(function(){
-    $('.idk').toggle();
+    $('.dog').toggle();
 });
 
 $(".animate").click(function(){
