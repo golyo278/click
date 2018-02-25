@@ -19,11 +19,16 @@ $(".sound").click(function() {
 
 
 $(".animate").click(function(){
-    $(".animate").animate({right: '250px'});
+    $(".animate").animate({
+        left: '250px',
+        opacity: '0.5',
+        height: '150px',
+        width: '150px'
+    });
 }); 
 
 $(".fade").click(function(){
-    $(".fade").fadeIn("slow");
+     $(".fade").fadeTo(1000, 0.4);
 });
 
 
