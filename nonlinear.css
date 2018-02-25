@@ -87,7 +87,67 @@ body{
     margin-bottom: 25px;
     margin-right: 5%;
 }
-.code1, .code2, .code3, .code4, .code5, .code6, .code7, {
+.code1{
+     left:70%;
+    width: 25%;
+    overflow: hidden;
+    height: 40%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+}
+.code2{
+     left:70%;
+    width: 25%;
+    overflow: hidden;
+    height: 40%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+} 
+.code3{
+     left:70%;
+    width: 25%;
+    overflow: hidden;
+    height: 40%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+}
+.code4{
+     left:70%;
+    width: 25%;
+    overflow: hidden;
+    height: 40%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+}
+.code5{
+     left:70%;
+    width: 25%;
+    overflow: hidden;
+    height: 40%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+}
+.code6{
+     left:70%;
+    width: 25%;
+    overflow: hidden;
+    height: 40%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+}
+.code7, {
     left:70%;
     width: 25%;
     overflow: hidden;
