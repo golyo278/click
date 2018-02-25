@@ -110,3 +110,29 @@ body{
     width: 50%;
     overflow: hidden;
 }
+
+.five{
+    width:80%;
+    height: 40%;
+    display: block;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+     overflow: hidden;
+
+}
+.sound{
+    float:left;
+    width:50%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: orange;
+     overflow: hidden;
+
+}
+
+.code5{
+    float:right;
+    width: 50%;
+    overflow: hidden;
+}

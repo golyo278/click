@@ -10,3 +10,8 @@ $(".color").click(function() {
     $( this ).css( "background-color", "red" );
 });
 
+var audio = new Audio('lollipop.mp3');
+$(".sound").click(function() {
+  audio.play();
+  
+});
