@@ -13,6 +13,7 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
     margin-right: 5%;
+    margin-left:2.5%;
 
 }
 .alert{
@@ -26,6 +27,7 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
     margin-right: 5%;
+    margin-left:2.5%;
 }
 .color{
     float:left;
@@ -38,6 +40,7 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
     margin-right: 5%;
+    margin-left:2.5%;
 }
 .idk{
     float:left;
@@ -51,6 +54,7 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
     margin-right: 5%;
+    margin-left:2.5%;
 }
 .sound{
     float:left;
@@ -63,6 +67,7 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
     margin-right: 5%;
+    margin-left:2.5%;
 }
 .animate{
     float:left;
@@ -74,6 +79,7 @@ body{
     margin-bottom: 25px;
     background-color: #ccffff;
     margin-right: 5%;
+    margin-left:2.5%;
 }
 .fade{
     float:left;
@@ -86,6 +92,7 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
     margin-right: 5%;
+    margin-left:2.5%;
 }
 .code1{
      left:70%;
