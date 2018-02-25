@@ -20,7 +20,7 @@ $(".sound").click(function() {
 
 $(".idk").click(function(){
     $("img").animate({
-        left: '250px';
+        left: '250px'
 
 }); 
 

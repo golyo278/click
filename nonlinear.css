@@ -3,27 +3,6 @@ body{
     font-size: 18pt;
 }
 
-/*
-.box1{
-    width:65%;
-    height: 40%;
-    display: block;
-    overflow: hidden;
-    border-style: solid;
-    border-width: 3px;
-    margin-bottom: 25px;
-}
-.box2{
-    width:65%;
-    height: 40%;
-    display: block;
-    overflow: hidden;
-    border-style: solid;
-    border-width: 3px;
-    margin-bottom: 25px;
-}
-*/
-
 .hide{
     float:left;
     width:65%;
@@ -110,7 +89,7 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
 }
-.a{
+.a, .b, .c, .d, .e, .f,{
     width:100%;
 
 }
