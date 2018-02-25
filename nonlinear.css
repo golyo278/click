@@ -72,11 +72,6 @@ body{
     margin-bottom: 25px;
      overflow: hidden;
 }
-.code1{
-    float:right;
-    width: 50%;
-    overflow: hidden;
-}
 
 */
 .hide{
@@ -153,7 +148,11 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
 }
-
+.code1{
+    float:right;
+    width: 50%;
+    overflow: hidden;
+}
 
 .code2{
     float:right;
