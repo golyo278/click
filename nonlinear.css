@@ -61,8 +61,8 @@ body{
     float:left;
     width:65%;
     height: 40%;
-    margin: 0 auto;
-    background-color: orange;
+    background: url('dog.jpg') no-repeat;
+    background-size: 100%;
     overflow: hidden;
     border-style: solid;
     border-width: 3px;
