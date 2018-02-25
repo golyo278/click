@@ -1,0 +1,188 @@
+body{ 
+    font-family: arial, helvetica, sans-serif;
+    font-size: 18pt;
+    align-content: center;
+}
+
+.hide{
+    float:left;
+    width:65%;
+    height: 40%;
+    background-color: #c4e2d9;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+    margin-right: 5.25%;
+    margin-left:2.5%;
+
+}
+.alert{
+    float:left;
+    width:65%;
+    height: 40%;
+    margin: 0 auto;
+    background-color: #edbbbb;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+    margin-right: 5%;
+    margin-left:2.5%;
+}
+.color{
+    float:left;
+    width:65%;
+    height: 40%;
+    margin: 0 auto;
+    background-color: #edc71c;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+    margin-right: 5%;
+    margin-left:2.5%;
+}
+.idk{
+    float:left;
+    width:65%;
+    height: 40%;
+    background: url('dog.jpg') no-repeat;
+    background-size: 100%;
+    background-color: black;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+    margin-right: 5%;
+    margin-left:2.5%;
+}
+.sound{
+    float:left;
+    width:65%;
+    height: 40%;
+    margin: 0 auto;
+    background-color: #59b300;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+    margin-right: 5%;
+    margin-left:2.5%;
+}
+.animate{
+    float:left;
+    width:65%;
+    height: 40%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+    background-color: #ccffff;
+    margin-right: 5%;
+    margin-left:2.5%;
+}
+.fade{
+    float:left;
+    width:65%;
+    height: 40%;
+    margin: 0 auto;
+    background-color: black;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+    margin-right: 5%;
+    margin-left:2.5%;
+}
+.code1{
+     left:70%;
+    width: 25%;
+    overflow: hidden;
+    height: 40%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+    margin-left:2.5%;
+}
+.code2{
+    left:70%;
+    width: 25%;
+    overflow: hidden;
+    height: 40%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+    text-align: left;
+    vertical-align: middle;
+} 
+.code3{
+     left:70%;
+    width: 25%;
+    overflow: hidden;
+    height: 40%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+}
+.code4{
+     left:70%;
+    width: 25%;
+    overflow: hidden;
+    height: 40%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+}
+.code5{
+     left:70%;
+    width: 25%;
+    overflow: hidden;
+    height: 40%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+}
+.code6{
+     left:70%;
+    width: 25%;
+    overflow: hidden;
+    height: 40%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+}
+
+.code7, {
+    left:70%;
+    width: 25%;
+    overflow: hidden;
+    height: 40%;
+    overflow: hidden;
+    margin-bottom: 25px;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.a, .b, .c, .d, .e, .f, .g,{
+    width:100%;
+
+}
+.h1{
+    text-align: center;
+
+}
+.h2{
+    text-align: top;
+
+}
+
+
+
+
