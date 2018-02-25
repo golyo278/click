@@ -18,13 +18,10 @@ $(".sound").click(function() {
 });
 
 
-$(".animate").click(function(){
-    $(".animate").animate({
-        left: '250px',
-        opacity: '0.5',
-        height: '150px',
-        width: '150px'
-    });
+$(".idk").click(function(){
+    $("img").animate({
+        left: '250px';
+
 }); 
 
 $(".fade").click(function(){
