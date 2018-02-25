@@ -5,6 +5,7 @@ body{
 
 .boxes{
      overflow: hidden;
+     margin: auto 0;
 }
 .one{
     width:80%;
@@ -14,7 +15,7 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
     overflow: hidden;
-    margin: auto 0;
+    
 
 }
 .hide{
@@ -41,7 +42,7 @@ body{
     border-width: 3px;
    margin-bottom: 25px;
     overflow: hidden;
-    margin: auto 0;
+    
 
 }
 
