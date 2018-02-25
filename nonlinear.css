@@ -87,7 +87,7 @@ body{
     margin-bottom: 25px;
     margin-right: 5%;
 }
-.code1{
+.code1, .code2, .code3, .code4, .code5, .code6, .code7, {
     left:70%;
     width: 25%;
     overflow: hidden;
