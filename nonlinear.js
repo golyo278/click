@@ -25,12 +25,12 @@ $(".animate").click(function(){
         left: '250px',
         opacity: '0.5',
         height: '150px',
-        width: '150px'
-    });
+        width: '150px'});
+});
+
 
 $(".fade").click(function(){
      $(".fade").fadeTo(1000, 0.4);
 });
 
 
-}
