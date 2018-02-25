@@ -106,7 +106,7 @@ body{
     margin-left:2.5%;
 }
 .code2{
-     left:70%;
+    left:70%;
     width: 25%;
     overflow: hidden;
     height: 40%;
@@ -114,6 +114,8 @@ body{
     border-style: solid;
     border-width: 3px;
     margin-bottom: 25px;
+    text-align: left;
+    vertical-align: middle;
 } 
 .code3{
      left:70%;
