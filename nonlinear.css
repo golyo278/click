@@ -165,11 +165,16 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
 }
-.code{
+.code1{
     float:right;
     width: 35%;
     overflow: hidden;
+    height: 40%;
+    display: block;
     overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
 }
 
 .h1{
