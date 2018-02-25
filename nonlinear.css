@@ -7,6 +7,7 @@ body{
      overflow: hidden;
      margin: auto 0;
 }
+/*
 .one{
     width:80%;
     height: 40%;
@@ -14,23 +15,6 @@ body{
     border-style: solid;
     border-width: 3px;
     margin-bottom: 25px;
-    overflow: hidden;
-    
-
-}
-.hide{
-    float:left;
-    width:50%;
-    height: 100%;
-    margin: 0 auto;
-    background-color: #c4e2d9;
-    overflow: hidden;
-
-}
-
-.code1{
-    float:right;
-    width: 50%;
     overflow: hidden;
 }
 
@@ -42,26 +26,7 @@ body{
     border-width: 3px;
    margin-bottom: 25px;
     overflow: hidden;
-    
-
 }
-
-.alert{
-    float:left;
-    width:50%;
-    height: 100%;
-    margin: 0 auto;
-    background-color: #edbbbb;
-     overflow: hidden;
-
-
-}
-.code2{
-    float:right;
-    width: 50%;
-    overflow: hidden;
-}
-
 .three{
     width:80%;
     height: 40%;
@@ -70,25 +35,7 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
      overflow: hidden;
-
 }
-.color{
-    float:left;
-    width:50%;
-    height: 100%;
-    margin: 0 auto;
-    background-color: #edc71c;
-     overflow: hidden;
-
-}
-
-.code3{
-    float:right;
-    width: 50%;
-    overflow: hidden;
-
-}
-
 .four{
     width:80%;
     height: 40%;
@@ -97,24 +44,7 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
      overflow: hidden;
-
 }
-.idk{
-    float:left;
-    width:50%;
-    height: 100%;
-    margin: 0 auto;
-    background-color: orange;
-     overflow: hidden;
-
-}
-
-.code4{
-    float:right;
-    width: 50%;
-    overflow: hidden;
-}
-
 .five{
     width:80%;
     height: 40%;
@@ -123,24 +53,7 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
      overflow: hidden;
-
 }
-.sound{
-    float:left;
-    width:50%;
-    height: 100%;
-    margin: 0 auto;
-    background-color: #59b300;
-     overflow: hidden;
-
-}
-
-.code5{
-    float:right;
-    width: 50%;
-    overflow: hidden;
-}
-
 .six{
     width:80%;
     height: 40%;
@@ -149,24 +62,7 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
      overflow: hidden;
-
 }
-.animate{
-    float:left;
-    width:50%;
-    height: 100%;
-    margin: 0 auto;
-    background-color: #ccffff;
-     overflow: hidden;
-
-}
-
-.code6{
-    float:right;
-    width: 50%;
-    overflow: hidden;
-}
-
 .seven{
     width:80%;
     height: 40%;
@@ -175,7 +71,79 @@ body{
     border-width: 3px;
     margin-bottom: 25px;
      overflow: hidden;
+}
 
+.hide{
+    float:left;
+    width:50%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #c4e2d9;
+    overflow: hidden;
+}
+
+.code1{
+    float:right;
+    width: 50%;
+    overflow: hidden;
+}
+
+*/
+
+.alert{
+    float:left;
+    width:50%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #edbbbb;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+}
+.color{
+    float:left;
+    width:50%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #edc71c;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+}
+.idk{
+    float:left;
+    width:50%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: orange;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+}
+.sound{
+    float:left;
+    width:50%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #59b300;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
+}
+.animate{
+    float:left;
+    width:50%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #ccffff;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
 }
 .fade{
     float:left;
@@ -183,10 +151,38 @@ body{
     height: 100%;
     margin: 0 auto;
     background-color: #ccff99;
-     overflow: hidden;
-
+    overflow: hidden;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 25px;
 }
 
+
+.code2{
+    float:right;
+    width: 50%;
+    overflow: hidden;
+}
+.code3{
+    float:right;
+    width: 50%;
+    overflow: hidden;
+}
+.code4{
+    float:right;
+    width: 50%;
+    overflow: hidden;
+}
+.code5{
+    float:right;
+    width: 50%;
+    overflow: hidden;
+}
+.code6{
+    float:right;
+    width: 50%;
+    overflow: hidden;
+}
 .code7{
     float:right;
     width: 50%;
