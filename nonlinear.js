@@ -19,10 +19,8 @@ $(".sound").click(function() {
 
 
 $(".idk").click(function(){
-    $("img").animate({
-        left: '250px'
-
-}); 
+    $('background-color').toggle();
+});
 
 $(".fade").click(function(){
      $(".fade").fadeTo(1000, 0.4);
