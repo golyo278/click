@@ -52,7 +52,7 @@ body{
     margin: 0 auto;
     background-color: #edbbbb;
      overflow: hidden;
-     
+
 
 }
 .code2{
@@ -218,29 +218,4 @@ body{
     overflow: hidden;
 }
 
-.nine{
-    width:80%;
-    height: 40%;
-    display: block;
-    border-style: solid;
-    border-width: 3px;
-    margin-bottom: 25px;
-     overflow: hidden;
 
-}
-.text{
-    float:left;
-    width:50%;
-    height: 100%;
-    margin: 0 auto;
-    background-color: #336600;
-    overflow: hidden;
-    color:blue;
-
-}
-
-.code9{
-    float:right;
-    width: 50%;
-    overflow: hidden;
-}

@@ -10,9 +10,6 @@ $(".color").click(function() {
     $( this ).css( "background-color", "red" );
 });
 
-$(".text").click(function() {
-    $( this ).css( "color", "white" );
-});
 
 var audio = new Audio('Bandrew.m4a');
 $(".sound").click(function() {
