@@ -27,5 +27,5 @@ $(".fade").click(function(){
 });
 
 $(".slide").click(function(){
-    slideDown();
+     $(".slide").slideDown("200px");
 });
