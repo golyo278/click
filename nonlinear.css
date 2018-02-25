@@ -160,10 +160,11 @@ body{
     overflow: hidden;
     height: 40%;
     overflow: hidden;
+    margin-bottom: 25px;
     border-style: solid;
     border-width: 3px;
-    margin-bottom: 25px;
 }
+
 .a, .b, .c, .d, .e, .f, .g,{
     width:100%;
 
