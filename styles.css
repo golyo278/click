@@ -184,7 +184,7 @@ body{
 
 }
 
-.jquery{
+.jquery, .pre{
     width:95%;
     margin-bottom: 25px;
     border-style: solid;
